@@ -1,0 +1,6 @@
+route_id,route_name,distance_km
+R01,Central Station - Tech Park,12
+R02,City Mall - Railway Station,8
+R03,University - Bus Terminal,15
+R04,Airport - City Center,22
+R05,Hospital - Market,6
